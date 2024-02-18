@@ -1,6 +1,5 @@
-<!DOCTYPE html>
-<!-- Coding By CodingNepal - www.codingnepalweb.com -->
-<html lang="en">
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
 <style>
     /* Importing Google font - Inter */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
@@ -87,4 +86,7 @@ const typeEffect = () => {
 }
 typeEffect();
 </script> 
+
+  </foreignObject>
+</svg>
 
