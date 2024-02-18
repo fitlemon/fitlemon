@@ -1,52 +1,28 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
+<svg width="100%" height="100%" viewBox="30 -50 600 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <style>
-    /* Importing Google font - Inter */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Inter", sans-serif;
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+body{
+  margin:0;
+  width:100%; 
+  height:100vh;
+  overflow:hidden;
+  background:hsla(0, 5%, 5%, 1);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: linear-gradient(to right top, hsla(0, 5%,15%, 0.5), hsla(0, 5%, 5%,1));
 }
-body {
-    display: flex;
-    height: 100vh;
-    align-items: center;
-    justify-content: center;
-    background: #1D1E23;
-}
-h1 {
-    color: #fff;
-    font-size: 2rem;
-    font-weight: 600;
-}
-h1 span {
-    color: #BD53ED;
-    position: relative;
-}
-h1 span::before {
-    content: "";
-    height: 30px;
-    width: 2px;
-    position: absolute;
-    top: 50%;
-    right: -8px;
-    background: #BD53ED;
-    transform: translateY(-45%);
-    animation: blink 0.7s infinite;
-}
-h1 span.stop-blinking::before {
-    animation: none;
-}
-@keyframes blink {
-    50% { opacity: 0 }
+svg{
+  width:100%;
 }
 </style>
-<div>
-    <h1>Coding is <span></span></h1>
-</div>
-
-  </foreignObject>
+ <path id="path">
+		<animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
+	</path>
+	<text font-size="26" font-family="Montserrat" fill='hsla(36, 95%, 85%, 1)'>
+		<textPath xlink:href="#path">I am Davron. ML Engineer. Work with LLM, CV and classic ML.
+    </textPath>
+    </textPath>
+	</text>
 </svg>
+
 
