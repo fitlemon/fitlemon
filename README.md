@@ -1,6 +1,6 @@
 
 
-<img src='./static/header1.gif'>
+<img src='./static/header.gif'>
 
 
 
