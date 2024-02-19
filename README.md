@@ -45,7 +45,7 @@ ikhmatullaev.dm@phystech.edu
 - Actively pursuing advanced knowledge in Machine Learning/Data Science through a series of intensive courses
 
 #### <u>Bachelor’s Degree in Oil & Gas Engineering</u>
-<a href='https://gubkin.uz/'><img src='./static/gubkin.png' style='width: 20px;'> </a><b> RSU of Oil and Gas named after I.M.Gubkin in Tashkent city, Tashkent | 2011- 2015</b>
+<a href='https://gubkin.uz/'><img src='./static/gubkin.png' style='width: 20px;'></a><b> RSU of Oil and Gas named after I.M.Gubkin in Tashkent city, Tashkent | 2011- 2015</b>
 
 - Focused on the foundational and practical aspects of engineering within the oil and gas sector.
 
@@ -59,11 +59,11 @@ ikhmatullaev.dm@phystech.edu
 
 #### <u>Senior Controls Systems Engineer</u>
 
-<a href='https://lukoil-international.uz/'><img src='./static/lukoil.png' style='width: 20px;'> </a> <b> Lukoil Uzbekistan | Jan 2020 - Until now</b>
+<a href='https://lukoil-international.uz/'><img src='./static/lukoil.png' style='width: 20px;'></a> <b> Lukoil Uzbekistan | Jan 2020 - Until now</b>
 - Responsibilities included programming controllers, maintaining databases, and managing servers, indicating a strong background in IT infrastructure, database administration, and programming.
 
 #### <u>Owner, Curriculum developer</u>
-<a href='https://t.me/gorodgeroew/'><img src='./static/gg.jpg' style='width: 20px;'> </a><b> Gorod Geroev | March 2017 - February 2023</b>
+<a href='https://t.me/gorodgeroew/'><img src='./static/gg.jpg' style='width: 20px;'></a><b> Gorod Geroev | March 2017 - February 2023</b>
 - Managed a learning center specialized in Robotics and Programming, indicating leadership and administrative capabilities.
 - Was responsible for developing the curriculum, education robots, and kits, showcasing skills in educational planning, technical understanding of robotics, and curriculum design.
 
@@ -96,6 +96,6 @@ ikhmatullaev.dm@phystech.edu
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/FitLemon?theme=dark&font=Syne%20Mono&ext=activity)
 
-<img src='./static/leetcode.png' style='width: 20px;'> <span style='font-size: 17px;'>**GitHub statistics**</span>
+<img src='./static/github.png' style='width: 30px;'> <span style='font-size: 17px;'>**GitHub statistics**</span>
 ---
 [![Davron's github stats](https://github-readme-stats.vercel.app/api?username=fitlemon&show_icons=true&theme=dark))](https://github.com/fitlemon/github-readme-stats)
