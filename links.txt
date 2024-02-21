@@ -1,0 +1,15 @@
+
+Creating a Standout GitHub Profile README
+
+https://medium.com/bigcommerce-developer-blog/creating-a-standout-github-profile-readme-ee87f4320585
+
+Оформляем README-файл профиля на GitHub
+
+https://habr.com/ru/articles/649363/
+
+LeetCode Stats Card
+
+https://github.com/JacobLinCool/LeetCode-Stats-Card
+
+
+https://github.com/krushnatkhawale

@@ -20,6 +20,7 @@ My technical skills:
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,9 +39,11 @@ My technical skills:
 
 Contacts: 
 <br>
-ihmatullaev@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/-ihmatullaev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ihmatullaev@gmail.com)](mailto:ihmatullaev@gmail.com)
 <br>
-ikhmatullaev.dm@phystech.edu 
+[![MIPT Badge](https://img.shields.io/badge/-ikhmatullaev.dm@phystech.edu-c14438?style=social&logo=Mail.ru&logoColor=blue&link=mailto:ikhmatullaev.dm@phystech.edu)](mailto:ikhmatullaev.dm@phystech.edu)<br>
+[![Telegram Badge](https://img.shields.io/badge/-ihmatullaev-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.t.me/ihmatullaev/)](https://www.t.me/ihmatullaev/)<br>
+[![Linkedin Badge](https://img.shields.io/badge/-davron_ikhmatullaev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davron-ikhmatullaev/)](https://www.linkedin.com/in/davron-ikhmatullaev/)
 
 <img src='./static/education.png' style='width: 20px;'> <span style='font-size: 17px;'>**MY EDUCATION**</span>
 ---
