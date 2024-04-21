@@ -63,7 +63,7 @@ Contacts:
 ---
 #### <u>Data Scientist</u>
 
-<a href='https://mohir.ai/'><img src='./static/mohirai.png' style='width: 20px;'></a> <b> MohirAI | Apr 2024 - Until now</b>
+<a href='https://mohir.ai/'><img src='./static/mohirai.jpg' style='width: 20px;'></a> <b> MohirAI | Apr 2024 - Until now</b>
 - Working on the NLP projects
 
 #### <u>ML Engineer</u>
