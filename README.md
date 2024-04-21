@@ -10,7 +10,8 @@
 ---
 - 👨‍🏫 Currently pursuing a Master's in Data Science at MIPT
 - 📚 I have expertise in key Python libraries and machine learning algorithms. 
-- 👨‍💻 Working on the projects with CV, LLM and Classic ML.
+- 👨‍💻 Working on the projects with CV, LLM (NLP) at AvacadaSoft and MohirAI
+  
 
 My technical skills:
 <br>
@@ -60,10 +61,15 @@ Contacts:
 
 <img src='./static/experience.png' style='width: 20px;'> <span style='font-size: 17px;'>**MY EXPERIENCE**</span>
 ---
+#### <u>Data Scientist</u>
+
+<a href='https://mohir.ai/'><img src='./static/mohirai.png' style='width: 20px;'></a> <b> MohirAI | Apr 2024 - Until now</b>
+- Working on the NLP projects
+
 #### <u>ML Engineer</u>
 
-###### NDA | Jan 2024 - Until now
-- Working in the start-up team, that creating product based on Face Recognition/Identification.
+###### AvacadaSoft | Jan 2024 - Until now
+- Working on the Face recognition project as a graduate work and corporate start-up at the same time.
 
 #### <u>Senior Controls Systems Engineer</u>
 
