@@ -63,8 +63,13 @@ Contacts:
 ---
 #### <u>Data Scientist</u>
 
-<a href='https://mohir.ai/'><img src='./static/mohirai.jpg' style='width: 20px;'></a> <b> MohirAI | Apr 2024 - Until now</b>
-- Working on the NLP projects
+<a href='https://mohir.ai/'><img src='./static/ucell.jpg' style='width: 20px;'></a> <b> Ucell | Jun 2024 - Until now</b>
+- Working on the NLP and BigData projects
+  
+#### <u>Data Scientist</u>
+
+<a href='https://mohir.ai/'><img src='./static/mohirai.jpg' style='width: 20px;'></a> <b> MohirAI | Apr 2024 - Jun 2024 /b>
+- Worked on the NLP projects
 
 #### <u>ML Engineer</u>
 
@@ -90,10 +95,10 @@ Contacts:
 
 <img src='./static/petprojects.png' style='width: 20px;'> <span style='font-size: 17px;'>**PET PROJECTS**</span>
 ---
-#### <u>ChildFolio</u>
+#### <u>KidFolio</u>
 
 - FaceRecognition and Media-Content generation in kindergartens and schools.
-<br><i>#CV </i> <i>#DeepFace </i> <i>#ArcFace </i> 
+<br><i>#CV </i> <i>#FaceRecognition </i> <i>#LLM </i> 
 
 #### <u>ExpertAI</u>
 
